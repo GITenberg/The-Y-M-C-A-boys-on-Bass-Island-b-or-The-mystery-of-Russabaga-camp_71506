@@ -1,0 +1,39 @@
+_repo: The-Y-M-C-A-boys-on-Bass-Island-b-or-The-mystery-of-Russabaga-camp_71506
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+creator:
+  author:
+    agent_name: Henderley, Brooks
+    gutenberg_agent_id: '55600'
+    url: http://www.gutenberg.org/2009/agents/55600
+description: ''
+gutenberg_issued: '2023-08-28'
+identifiers:
+  gutenberg: '71506'
+language: en
+pgterms:marc905: 20220622100815henderley
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: David Edwards, Debrah Thompson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bCupples & Leon Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'YMCA of the USA -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Y. M. C. A. boys on Bass Island : $b or, The mystery of Russabaga camp'
+url: http://www.gutenberg.org/ebooks/71506
